@@ -9,3 +9,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 # TO-DO-vue
 
 https://to-do-vue.pages.dev/
+
+To-do in Vue:
+
+- connect wit database
+- click issue to see details
